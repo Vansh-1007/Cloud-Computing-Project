@@ -4,6 +4,35 @@ This project integrates a **mental health chatbot** powered by a **Large Languag
 
 The mobile app allows users to interact with the chatbot on their smartphones, making it accessible and easy to use anywhere.
 
+# Project Files and Their Purposes
+
+| **File Name**                | **Purpose**                                                                 |
+|------------------------------|-----------------------------------------------------------------------------|
+| **Final_Report.pdf**          | Final project report, including detailed analysis and findings.             |
+| **Presentation.pptx**         | Project presentation slides for showcasing the project to others.           |
+| **README.md**                 | Project documentation, setup instructions, and description of the project.  |
+| **api_service.dart**          | Flutter code for handling API requests and communication with the backend.  |
+| **chat_screen.dart**          | Flutter code for the chat interface of the mobile app, where users interact with the chatbot. |
+| **main.dart**                 | The main entry point of the Flutter app, including initialization and setup of screens. |
+| **mentalhealthchatbot1.ipynb**| Jupyter Notebook containing model training or evaluation code (if applicable). |
+| **pubspec.yaml**              | Flutter project dependencies configuration file.                             |
+| **server.py**                 | Python code for the Flask backend API that interacts with the Hugging Face model to generate responses. |
+
+---
+
+### Group Members
+
+| **Name**            | **Roll Number** |
+|---------------------|-----------------|
+| Vansh Lal Tolani    | 22BDS061        |
+| Rajdeep Manik       | 22BDS048        |
+| D Shanmukha         | 22BDS019        |
+| G Leeladutya        | 22BDS024        |
+
+
+
+
+
 ## Features
 
 - **Mental Health Chatbot**: The chatbot provides supportive, empathetic, and brief responses to mental health-related inquiries.
